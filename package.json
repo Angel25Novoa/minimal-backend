@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo-backend",
+  "version": "1.0.0",
+  "description": "ejemplo para la clase",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Angel N",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
